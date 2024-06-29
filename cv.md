@@ -1,5 +1,5 @@
 # Svetlana Shahabi
-![photo](/Users/svetlana__bogacheva/Desktop/photo.png)
+<img width="550" alt="photo" src="https://github.com/lanashahabi/rsschool-cv/assets/173187072/4f9af281-d77b-4597-bd9d-3f1b23aeeed3">
 
 ## Contacts:
 
